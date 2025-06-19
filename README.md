@@ -1,4 +1,4 @@
-# 👋 Xin chào, mình là **Lê Thanh Hải**
+# 👋 Xin chào, mình là [Lê Thanh Hải](https://github.com/ThanhHaipear)
 
 🎓 Sinh viên ngành **Công nghệ Thông tin**  
 🎮 Đam mê **Kinh tế** và thích **Lập trình**   
