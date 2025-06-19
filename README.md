@@ -42,11 +42,11 @@ Mình tin rằng **bất kỳ ai cũng có thể học lập trình** – hãy c
 
 ## 📬 Liên hệ
 
-📧 Email: **[lehai8940@gmail.com]**  
+📧 Email: **lehai8940@gmail.com**  
 
 
-> _"Lập trình giống như hài hước — nếu phải giải thích thì không còn hay."_  
-> — Cory House
+> _"Nếu bạn nghĩ việc học lập trình khó, thì hãy thử gỡ lỗi một đoạn code bạn không hiểu."_  
+> — Bạn nghĩ đúng rồi đó
 
 ---
 
