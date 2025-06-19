@@ -1,8 +1,8 @@
 # 👋 Xin chào, mình là **Lê Thanh Hải**
 
-🎓 Sinh viên năm 3 ngành **Công nghệ Thông tin**
-🎮 Đam mê **Kinh tế** và thích **Lập trình**  
-📚 Luôn học hỏi, xây dựng và phát triển thông qua các dự án thực tế
+🎓 Sinh viên ngành **Công nghệ Thông tin**  
+🎮 Đam mê **Kinh tế** và thích **Lập trình**   
+📚 Luôn học hỏi, xây dựng và phát triển thông qua các dự án thực tế  
 
 
 ---
