@@ -10,8 +10,7 @@ Luôn học hỏi, xây dựng và phát triển thông qua các dự án thực
 ## 👨‍💻 Về bản thân
 
 Mình là sinh viên năm 4 tại **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**.  
-Mình có 4 năm kinh nghiệm trong việc tham gia thị trường chứng khoán Việt Nam.  
-Mình tin rằng **bất kỳ ai cũng có thể học lập trình** – hãy cùng nhau học hỏi và sáng tạo! 
+Mình có 4 năm **kinh nghiệm trong việc tham gia thị trường chứng khoán Việt Nam**.   
 
 ---
 
