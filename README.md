@@ -1,17 +1,17 @@
 # 👋 Xin chào, mình là [Lê Thanh Hải](https://github.com/ThanhHaipear)
 
 🎓 Sinh viên ngành **Công nghệ Thông tin**  
-🎮 Đam mê **Kinh tế** và thích **Lập trình**   
-📚 Luôn học hỏi, xây dựng và phát triển thông qua các dự án thực tế  
+Đam mê **Kinh tế** và thích **Lập trình**   
+Luôn học hỏi, xây dựng và phát triển thông qua các dự án thực tế  
 
 
 ---
 
 ## 👨‍💻 Về bản thân
 
-Mình là sinh viên năm 3 tại **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**.  
-Mình thích lập trình, phát triển trò chơi và thiết kế phần mềm.  
-Mình tin rằng **bất kỳ ai cũng có thể học lập trình** – hãy cùng nhau học hỏi và sáng tạo! 🚀
+Mình là sinh viên năm 4 tại **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**.  
+Mình có 4 năm kinh nghiệm trong việc tham gia thị trường chứng khoán Việt Nam.  
+Mình tin rằng **bất kỳ ai cũng có thể học lập trình** – hãy cùng nhau học hỏi và sáng tạo! 
 
 ---
 
@@ -24,7 +24,7 @@ Mình tin rằng **bất kỳ ai cũng có thể học lập trình** – hãy c
 - Pygame, Flask (cơ bản)
 
 **Công cụ:**  
-- Git, GitHub, Docker, VSCode, PyCharm, UI Designer
+- Git/GitHub, Docker, VSCode, PyCharm, UI Designer
 
 **Kiến thức nền tảng:**  
 - Lập trình hướng đối tượng (OOP), Thiết kế trò chơi, Cơ bản về UI/UX
@@ -35,7 +35,7 @@ Mình tin rằng **bất kỳ ai cũng có thể học lập trình** – hãy c
 ## 🎯 Mục tiêu cá nhân
 
 - 🚀 Nâng cao kỹ năng phát triển game và xuất bản thêm sản phẩm  
-- 📖 Học phát triển web full-stack để xây dựng ứng dụng thực tế  
+- 📖 Học tập và phát triển thêm về thị giác máy tính 
 - 🤝 Tham gia dự án mã nguồn mở và đóng góp cho cộng đồng
 
 ---
