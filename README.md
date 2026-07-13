@@ -1,7 +1,9 @@
 # 👋 Hi, I'm [Lê Thanh Hải](https://github.com/ThanhHaipear)
 
 🎓 Final-year Information Technology student at PTIT
+
 💻 Passionate about building practical applications with Python and exploring Computer Vision
+
 📈 Five years of experience learning about and participating in the Vietnamese stock market
 
 I enjoy turning ideas into real-world projects and continuously improving them through each iteration.
