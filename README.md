@@ -1,24 +1,24 @@
-# 👋 Xin chào, mình là [Lê Thanh Hải](https://github.com/ThanhHaipear)
+# 👋 Hi, I'm [Lê Thanh Hải](https://github.com/ThanhHaipear)
 
-🎓 Sinh viên năm cuối ngành **Công nghệ Thông tin tại PTIT**  
-💻 Yêu thích xây dựng sản phẩm bằng **Python** và khám phá **thị giác máy tính**  
-📈 Có 5 năm tìm hiểu và tham gia thị trường chứng khoán Việt Nam  
+🎓 Final-year Information Technology student at PTIT
+💻 Passionate about building practical applications with Python and exploring Computer Vision
+📈 Five years of experience learning about and participating in the Vietnamese stock market
 
-Mình thích biến ý tưởng thành những dự án thực tế, liên tục học hỏi và cải thiện sản phẩm qua từng phiên bản.
+I enjoy turning ideas into real-world projects and continuously improving them through each iteration.
 
-## 🛠️ Công nghệ
+## 🛠️ Tech Stack
 
-- **Ngôn ngữ:** Python, JavaScript, C++, Java
-- **Web:** HTML, CSS, Flask
-- **Công cụ:** Git, Docker, VS Code, PyCharm
-- **Kiến thức:** OOP, UI/UX, phát triển game
+* **Languages:** Python, JavaScript, C++, Java
+* **Web:** HTML, CSS, Flask
+* **Tools:** Git, Docker, VS Code, PyCharm
+* **Knowledge:** Object-Oriented Programming (OOP), UI/UX Design, Game Development
 
-## 🎯 Hiện tại
+## 🎯 Current Focus
 
-- Phát triển các dự án Python có tính ứng dụng
-- Học sâu hơn về thị giác máy tính
-- Tìm kiếm cơ hội cộng tác trong các dự án thực tế và mã nguồn mở
+* Building practical Python projects
+* Deepening my knowledge of Computer Vision
+* Looking for opportunities to collaborate on real-world and open source projects
 
-## 📬 Liên hệ
+## 📬 Contact
 
-📧 **lehai8940@gmail.com**
+📧 **[lehai8940@gmail.com](mailto:lehai8940@gmail.com)**
