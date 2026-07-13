@@ -1,69 +1,24 @@
 # 👋 Xin chào, mình là [Lê Thanh Hải](https://github.com/ThanhHaipear)
 
-🎓 Sinh viên ngành **Công nghệ Thông tin**  
-Đam mê **Kinh tế** và thích **Lập trình**   
-Luôn học hỏi, xây dựng và phát triển thông qua các dự án thực tế  
+🎓 Sinh viên năm cuối ngành **Công nghệ Thông tin tại PTIT**  
+💻 Yêu thích xây dựng sản phẩm bằng **Python** và khám phá **thị giác máy tính**  
+📈 Có 5 năm tìm hiểu và tham gia thị trường chứng khoán Việt Nam  
 
+Mình thích biến ý tưởng thành những dự án thực tế, liên tục học hỏi và cải thiện sản phẩm qua từng phiên bản.
 
----
+## 🛠️ Công nghệ
 
-## 👨‍💻 Về bản thân
+- **Ngôn ngữ:** Python, JavaScript, C++, Java
+- **Web:** HTML, CSS, Flask
+- **Công cụ:** Git, Docker, VS Code, PyCharm
+- **Kiến thức:** OOP, UI/UX, phát triển game
 
-Mình là sinh viên năm 4 tại **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**.  
-Mình có 4 năm **kinh nghiệm trong việc tham gia thị trường chứng khoán Việt Nam**.   
+## 🎯 Hiện tại
 
----
-
-## 🛠️ Kỹ năng & Công nghệ
-
-**Ngôn ngữ lập trình:**  
-- Python, JavaScript, HTML, CSS, C++, Java
-
-**Frameworks & Thư viện:**  
-- Pygame, Flask (cơ bản)
-
-**Công cụ:**  
-- Git/GitHub, Docker, VSCode, PyCharm, UI Designer
-
-**Kiến thức nền tảng:**  
-- Lập trình hướng đối tượng (OOP), Thiết kế trò chơi, Cơ bản về UI/UX
-
----
-
-
-## 🎯 Mục tiêu cá nhân
-
-- 🚀 Nâng cao kỹ năng phát triển game và xuất bản thêm sản phẩm  
-- 📖 Học tập và phát triển thêm về thị giác máy tính 
-- 🤝 Tham gia dự án mã nguồn mở và đóng góp cho cộng đồng
-
----
+- Phát triển các dự án Python có tính ứng dụng
+- Học sâu hơn về thị giác máy tính
+- Tìm kiếm cơ hội cộng tác trong các dự án thực tế và mã nguồn mở
 
 ## 📬 Liên hệ
 
-📧 Email: **lehai8940@gmail.com**  
-
-
-> _"Nếu bạn nghĩ việc học lập trình khó, thì hãy thử gỡ lỗi một đoạn code bạn không hiểu."_  
-> — Bạn nghĩ đúng rồi đó
-
----
-
-🙌 Cảm ơn bạn đã ghé thăm GitHub của mình!  
-Hãy cùng **học lập trình và phát triển mỗi ngày** nhé! 😄
-
-
-<!--
-**ThanhHaipear/ThanhHaipear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **lehai8940@gmail.com**
