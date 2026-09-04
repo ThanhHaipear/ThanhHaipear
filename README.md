@@ -2,8 +2,6 @@
 
 🎓 Final-year Information Technology student at PTIT
 
-💻 Passionate about building practical applications with Python and exploring Computer Vision
-
 📈 Five years of experience learning about and participating in the Vietnamese stock market
 
 
