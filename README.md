@@ -6,7 +6,6 @@
 
 📈 Five years of experience learning about and participating in the Vietnamese stock market
 
-I enjoy turning ideas into real-world projects and continuously improving them through each iteration.
 
 ## 🛠️ Tech Stack
 
