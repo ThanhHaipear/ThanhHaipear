@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Lê Thanh Hải](https://github.com/ThanhHaipear)
+# 👋 Hi, I'm [Thanh Hải](https://github.com/ThanhHaipear)
 
 🎓 Final-year Information Technology student at PTIT
 
