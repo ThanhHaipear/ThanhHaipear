@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Thanh Hải](https://github.com/ThanhHaipear)
 
-🎓 Final-year Information Technology student at PTIT
+🎓 Final-year Information Technology student at PTIT.
 
 📈 Five years of experience learning about and participating in the Vietnamese stock market
 
