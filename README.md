@@ -2,7 +2,7 @@
 
 🎓 Final-year Information Technology student at PTIT.
 
-📈 Five years of experience learning about and participating in the Vietnamese stock market
+📈 Five years of experience learning about and participating in the Vietnamese stock market.
 
 
 ## 🛠️ Tech Stack
