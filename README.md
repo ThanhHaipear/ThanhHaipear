@@ -16,7 +16,7 @@
 
 * Building practical Python projects
 * Deepening my knowledge of Computer Vision
-* Looking for opportunities to collaborate on real-world and open source projects
+* Looking for opportunities to collaborate on real-world and open source projects.
 
 ## 📬 Contact
 
