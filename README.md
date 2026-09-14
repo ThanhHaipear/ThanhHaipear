@@ -15,7 +15,7 @@
 ## 🎯 Current Focus
 
 * Building practical Python projects
-* Deepening my knowledge of Computer Vision
+* Deepening my knowledge of Computer Vision.
 * Looking for opportunities to collaborate on real-world and open source projects.
 
 ## 📬 Contact
